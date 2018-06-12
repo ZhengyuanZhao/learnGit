@@ -1,3 +1,2 @@
-Git is a version control system.
-Gis is free softwatr.
-
+Git is a distributed version control system.
+Gis is free softwatr abc.
